@@ -37,15 +37,15 @@ Our engineering teams build scalable AI platforms, intelligent software, autonom
 
 # Core Focus Areas
 
-- 🤖 Enterprise AI Agents
-- 🧠 Multi-Agent Systems
-- ⚙️ AI Workflow Automation
-- 💬 Conversational AI
-- 🧩 Large Language Model (LLM) Applications
-- ☁️ AI Cloud Infrastructure
-- 📊 AI Analytics Platforms
-- 🔐 Enterprise Security
-- 🚀 AI Developer Platforms
+- Enterprise AI Agents
+- Multi-Agent Systems
+- AI Workflow Automation
+- Conversational AI
+- Large Language Model (LLM) Applications
+- AI Cloud Infrastructure
+- AI Analytics Platforms
+- Enterprise Security
+- AI Developer Platforms
 
 ---
 
