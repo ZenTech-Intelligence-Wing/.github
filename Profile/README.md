@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="https://via.placeholder.com/1200x320.png?text=ZenTech+Intelligence+Wing" alt="ZenTech Intelligence Wing Banner">
+  <img src="https://i.ibb.co/v6WY6JcJ/Chat-GPT-Image-Jul-19-2026-04-02-21-PM.png" alt="ZenTech Intelligence Wing Banner">
 </p>
 
-<h1 align="center">ZenTech Intelligence Wing</h1>
+<h1 align="center">Zen-Tech Intelligence Wing</h1>
 
 <p align="center">
   <strong>Engineering Enterprise AI Agents • Intelligent Automation • AI Infrastructure</strong>
@@ -52,7 +52,7 @@ Our engineering teams build scalable AI platforms, intelligent software, autonom
 
 # Flagship Projects
 
-### 5onam AI
+### 5onam AI Agent
 
 Enterprise AI Agent Platform designed for intelligent business automation.
 
@@ -122,19 +122,7 @@ Internal tools and frameworks for building, testing, and deploying AI systems.
 ---
 
 
-# Featured Repositories
-
-- 5onam-AI-Agent
-- AI-Automation-Core
-- Enterprise-AI-Platform
-- AI-Developer-Toolkit
-- Infrastructure
-- Documentation
-
----
-
-
 <p align="center">
-  <strong>ZenTech Intelligence Wing</strong><br/>
-  AI Engineering • Enterprise Automation • Intelligent Systems
+  <strong>Zen-Tech Intelligence Wing</strong><br/>
+ A Division of Zen-Tech International Under Platform of T-Service Group
 </p>
