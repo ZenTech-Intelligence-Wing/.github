@@ -15,7 +15,6 @@
 <p align="center">
   <img src="https://img.shields.io/badge/AI-Enterprise-blue?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Automation-Platform-purple?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Open%20Source-GitHub-black?style=for-the-badge" />
 </p>
 
 ---
