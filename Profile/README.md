@@ -57,24 +57,6 @@ Enterprise AI Agent Platform designed for intelligent business automation.
 
 ---
 
-### AI Automation Engine
-
-Workflow automation powered by intelligent AI agents.
-
----
-
-### Enterprise AI Platform
-
-A scalable platform for deploying and managing enterprise AI solutions.
-
----
-
-### AI Developer Toolkit
-
-Internal tools and frameworks for building, testing, and deploying AI systems.
-
----
-
 # Technology Stack
 
 ### Languages
